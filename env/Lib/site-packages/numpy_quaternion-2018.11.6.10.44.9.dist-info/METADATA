@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: numpy-quaternion
+Version: 2018.11.6.10.44.9
+Summary: Add built-in support for quaternions to numpy
+Home-page: https://github.com/moble/quaternion
+Author: Michael Boyle
+Author-email: mob22@cornell.edu
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Dist: numpy (>=1.13)
+
+This package creates a quaternion type in python, and further enables numpy to create and manipulate arrays of
+quaternions.  The usual algebraic operations (addition and multiplication) are available, along with numerous
+properties like norm and various types of distance measures between two quaternions.  There are also
+additional functions like "squad" and "slerp" interpolation, and conversions to and from axis-angle, matrix,
+and Euler-angle representations of rotations.  The core of the code is written in C for speed.
+
+
