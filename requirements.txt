@@ -11,7 +11,7 @@ django-filebrowser==3.11.1
 django-grappelli  ==2.12.1
 django-guardian   ==1.4.1
 django-userena    ==2.0.1
-djangorestframework==3.9.0
+djangorestframework==3.11.2
 easy-thumbnails   ==2.5
 future            ==0.17.1
 html2text         ==2018.1.9
