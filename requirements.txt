@@ -3,7 +3,7 @@ anyjson   ==        0.3.3
 attrs     ==        18.2.0
 Automat   ==       0.7.0
 billiard  ==       3.5.0.4
-certifi   ==        2018.10.15
+certifi   == 2022.12.7
 chardet   ==        3.0.4
 constantly ==       15.1.0
 Django     ==       2.1.3
