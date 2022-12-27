@@ -29,7 +29,7 @@ python3-memcached ==1.51
 pytz              ==2018.7
 qiniu             ==7.2.2
 requests          ==2.20.1
-setuptools        ==40.5.0
+setuptools        ==65.5.1
 simplejson        ==3.16.0
 six               ==1.11.0
 Twisted           ==18.9.0
